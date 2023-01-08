@@ -1,0 +1,32 @@
+.jumbotron {
+  padding-top: 12rem;
+  padding-bottom: 12rem;
+  background-color: rgb(247, 247, 247);
+}
+
+#about {
+  padding-top: 10rem;
+  padding-bottom: 15rem;
+}
+
+#skills {
+  padding-top: 5rem;
+  padding-bottom: 10rem;
+  background-color: rgb(247, 247, 247);
+}
+
+#project {
+  padding-top: 5rem;
+  padding-bottom: 10rem;
+}
+
+#gallery {
+  padding-top: 2rem;
+  padding-bottom: 5rem;
+  background-color: rgb(247, 247, 247);
+}
+
+#contact {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
